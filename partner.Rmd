@@ -1,0 +1,25 @@
+---
+title: "partner"
+author: "Molly Buckler"
+date: "8/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#answers
+
+Partners name: Jack Langenwalter
+  
+git hub username:JaBoiJack
+  
+Most recent commit: Jack commited hw 1
+  
+commit ID: commit            6d58054ec9abf890697368eee2870fd81628803d
+
+There were no errors when I Knitted the file.
+
+I had some difficulty downloading the files from my partners git hub.
+
